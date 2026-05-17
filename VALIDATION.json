@@ -1,0 +1,15 @@
+{
+  "new_paypay_url": "https://qr.paypay.ne.jp/p2p01_7qyY46XqZxGgVsQw",
+  "new_url_count": 3,
+  "old_url_counts": {
+    "https://qr.paypay.ne.jp/p2p01_OOcoe73WXQOj8C9p": 0,
+    "https://qr.paypay.ne.jp/p2p01_C2WQJYLTMuGv3hmV": 0,
+    "https://qr.paypay.ne.jp/p2p01_G9Jr8B9j01wcCN0u": 0
+  },
+  "files": [
+    ".nojekyll",
+    "README.md",
+    "donate/index.html",
+    "index.html"
+  ]
+}
